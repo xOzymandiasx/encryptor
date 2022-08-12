@@ -241,6 +241,11 @@ button {
     font-size: 16px;
   }
 }
+@media screen and (max-width: 500px) {
+  :root {
+    font-size: 15.5px;
+  }
+}
 
 @media screen and (max-width: 376px) {
 
